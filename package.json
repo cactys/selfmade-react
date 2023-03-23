@@ -1,5 +1,5 @@
 {
-    "name": "selfmade-react",
+    "name": "like-react",
     "version": "0.0.1",
     "description": "This is a very basic webpack setup with just ES6 support and everything else is left upto your creativity",
     "main": "index.js",
